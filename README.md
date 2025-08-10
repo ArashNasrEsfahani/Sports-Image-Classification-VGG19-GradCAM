@@ -17,7 +17,7 @@ This project was developed to classify images across 100 different sports using 
 
 ## 💾 Dataset
 
-This project utilizes the **[100 Sports Image Classification](https://www.kaggle.com/datasets/gpiosenka/100-sports-image-classification)** dataset. This dataset contains images from 100 different sport.
+This project utilizes the **[100 Sports Image Classification](https://www.kaggle.com/datasets/gpiosenka/sports-classification)** dataset. This dataset contains images from 100 different sport.
 
 ---
 
